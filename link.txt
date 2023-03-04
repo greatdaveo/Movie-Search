@@ -1,0 +1,27 @@
+API KEY:
+70b0fcbf372b3e42e494f1b8367435d2
+
+https://api.themoviedb.org/3/movie/550?api_key=70b0fcbf372b3e42e494f1b8367435d2
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MGIwZmNiZjM3MmIzZTQyZTQ5NGYxYjgzNjc0MzVkMiIsInN1YiI6IjY0MDIyMzEzYzcxNzZkMDA4NTE4MWI4NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WvShZN80cNLKXjWFfTgTddnhzVetWR8pEM4X0vkWNG8
+
+BASE URL: https://api.themoviedb.org/3 
+
+SEARCH: 
+        https://api.themoviedb.org/3/search/movie?api_key=70b0fcbf372b3e42e494f1b8367435d2&language=en-US&query=avatar&page=1
+
+INDIVIDUAL: 
+            https://api.themoviedb.org/3/movie/{movie_id}?api_key=70b0fcbf372b3e42e494f1b8367435d2&language=en-US&query=avatar&page=1
+
+NOW PLAYING: 
+            https://api.themoviedb.org/3/movie/popular?api_key=70b0fcbf372b3e42e494f1b8367435d2&language=en-US&query=avatar&page=1
+
+TOP RATED: 
+            https://api.themoviedb.org/3/movie/top_rated?api_key=70b0fcbf372b3e42e494f1b8367435d2&language=en-US&query=avatar&page=1
+
+UPCOMING: 
+            https://api.themoviedb.org/3/movie/upcoming?api_key=70b0fcbf372b3e42e494f1b8367435d2&language=en-US&query={movie_name} 
+
+
+
+LIBRARY: Tailwind CSS, Flowbite 
